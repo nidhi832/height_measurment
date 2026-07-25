@@ -218,7 +218,4 @@ Re-run calibration whenever you move the camera or change location.
 
 ---
 
-## Author
 
-Srinidhi P
-KYRA Height Measurement Module - July 2026
